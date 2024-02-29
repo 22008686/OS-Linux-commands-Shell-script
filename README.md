@@ -647,7 +647,3 @@ rev=$( echo ${rev}${s} ) done if [ $temp -eq $rev ]; then echo "Number is palind
 ## RESULT:
 
 The Commands are executed successfully.
-
-
-Footer
-© 2024
